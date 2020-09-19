@@ -1,0 +1,109 @@
+.header1 {
+    padding: 20px;
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f5fafe;
+    height: 60px;
+}
+
+.header1 img {
+    height: 17px;
+    width: 17px;
+    margin: 6px;
+    right: 20px;
+        
+}
+
+.header1 p {
+    font-size: 10px;
+
+}
+
+.header2 {
+    padding: 20px;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+}
+
+.header2 p {
+    font-size: 24px;
+
+}
+
+.location-form {
+    padding: 20px;
+    height: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f5fafe;
+}
+
+.header2 button {
+    background-color:#ec1F46;
+    width: 65px;
+    height: 40px;
+
+}
+
+.header2 img {
+    width: 34px;
+    height: 34px;
+    padding: 10px;
+}
+
+.header3 {
+    padding: 20px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #0A223D;
+    
+}
+
+.nav-bar {
+    float: right;
+}
+
+.header3 li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.header3 li a {
+    color: white;
+    text-decoration: none;
+}
+
+.header4 {
+    padding: 20px;
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f5fafe;
+    
+}
+
+.header4 p {
+    font-size: 10px;
+}
+
+.main1 {
+    padding: 20px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f5fafe;
+}
+
+.main1 button {
+    padding: 20px;
+    height: 15px;
+    background-color: #ec1f46;
+}
+
+.main1 p {
+    font-size: 12px;
+}
